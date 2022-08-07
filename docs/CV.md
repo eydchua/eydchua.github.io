@@ -14,7 +14,7 @@ Structural biology, cryo-EM, sample preparation, automation, molecular complexes
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 **Research Associate**, [Wigley Lab, Imperial College London][icl]
 
-2015-2017<p style="text-align:right">**Research Fellow**, Sara Sandin lab, Nanyang Technological University, Singapore</p>
+2015-2017<div style="text-align: right">**Research Fellow**, Sara Sandin lab, Nanyang Technological University, Singapore</div>
 
 # Education
 2010-2014
