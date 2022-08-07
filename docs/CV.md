@@ -5,8 +5,7 @@ permalink: /CV/
 ---
 
 # Education
-2010-2014
-PhD
+2010-2014      PhD
 Biological Sciences
 Nanyang Technological University
 Singapore
