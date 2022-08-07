@@ -4,14 +4,33 @@ title: CV
 permalink: /CV/
 ---
 
+# Research Interests
+Structural biology, cryo-EM, sample preparation, automation, molecular complexes, big data
+
+# Research Experience
+2020-present
+: **Scientist**, [Simons Electron Microscopy Center, New York Stuctural Biology Center][semc]
+
+2018-2020
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Research Associate**, [Wigley Lab, Imperial College London][icl]
+
+2015-2017
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**Research Fellow**, Sara Sandin lab, Nanyang Technological University, Singapore
+
 # Education
-2010-2014&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PhD
-Biological Sciences
-Nanyang Technological University
-Singapore
+2010-2014
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**PhD**, Biological Sciences
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Nanyang Technological University, Singapore
 
 2006-2010
-BSc (1st Class Hons)
-Biological Sciences
-Nanyang Technological University
-Singapore
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+**BSc (Hons)**, Biological Sciences
+
+Nanyang Technological University, Singapore
+
+[semc]: https://semc.nysbc.org/
+[icl]: https://www.structurebiomed.org/dale-wigley
