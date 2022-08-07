@@ -8,8 +8,7 @@ permalink: /CV/
 Structural biology, cryo-EM, sample preparation, automation, molecular complexes, big data
 
 # Research Experience
-2020-present
-: **Scientist**, [Simons Electron Microscopy Center, New York Stuctural Biology Center][semc]
+2020-present : **Scientist**, [Simons Electron Microscopy Center, New York Stuctural Biology Center][semc]
 
 2018-2020
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -22,15 +21,11 @@ Structural biology, cryo-EM, sample preparation, automation, molecular complexes
 # Education
 2010-2014
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**PhD**, Biological Sciences
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Nanyang Technological University, Singapore
+**PhD**, Biological Sciences, Nanyang Technological University, Singapore
 
 2006-2010
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-**BSc (Hons)**, Biological Sciences
-
-Nanyang Technological University, Singapore
+**BSc (Hons)**, Biological Sciences, Nanyang Technological University, Singapore
 
 [semc]: https://semc.nysbc.org/
 [icl]: https://www.structurebiomed.org/dale-wigley
