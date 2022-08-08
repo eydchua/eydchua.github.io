@@ -3,25 +3,6 @@ layout: page
 title: Dissemination
 permalink: /dissemination/
 ---
-
-# Service
-**Reviewing**<br>
-Reviewing research articles for Nature Methods, Structure, and Communications Biology, 2021-present.
-
-**Science Communications**<br>
-Event Manager for [Pint of Science London][pint], 2020, communicating science in an accessible manner to the general public.<br>
-
-Booth Organizer at [Imperial Lates 2019 “Winter Wonderlab”][lates], showcasing cryo-EM research at Imperial College London to the general public.<br>
-
-**Teaching and Mentorship**<br>
-Liu L, Masters student, Imperial College London, 2019.
-
-Kishore S, Lim JC, Tan SYY, Tan SYE, Shum KW, Undergraduate Honors students, Nanyang Technological University, 2010-2014.
-
-Teaching assistant at Nanyang Technological University for biochemistry, biophysics, cell biology, structural biology, 2010-2014.
-
-<br>
-
 # Meetings
 `2022`<br>
 **Microscopy & Microanalysis, USA**<br>
@@ -57,6 +38,23 @@ Poster & Talk: Nucleosomal DNA sequence-dependent properties and targeting by no
 
 **Nanyang Technological University Graduate Student Retreat, Singapore.**<br>
 Talk: DNA sequence-dependent behavior in the nucleosome.
+
+# Reviewing
+Reviewing research articles for Nature Methods, Structure, and Communications Biology, 2021-present.
+
+# Science Communication
+Event Manager for [Pint of Science London][pint], 2020, communicating science in an accessible manner to the general public.<br>
+
+Booth Organizer at [Imperial Lates 2019 “Winter Wonderlab”][lates], showcasing cryo-EM research at Imperial College London to the general public.<br>
+
+# Teaching and Mentorship
+Liu L, Masters student, Imperial College London, 2019.
+
+Kishore S, Lim JC, Tan SYY, Tan SYE, Shum KW, Undergraduate Honors students, Nanyang Technological University, 2010-2014.
+
+Teaching assistant at Nanyang Technological University for biochemistry, biophysics, cell biology, structural biology, 2010-2014.
+
+<br>
 
 
 [pint]: https://pintofscience.co.uk/
