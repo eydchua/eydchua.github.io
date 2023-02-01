@@ -9,6 +9,11 @@ Structural biology, cryo-EM, sample preparation, automation, molecular complexes
 
 <br>
 
+# Publications and preprints
+[Google scholar][googlescholar]
+
+<br>
+
 # Research Experience
 **Scientist, [Simons Electron Microscopy Center][semc], [New York Stuctural Biology Center][nysbc], 2020-present**
 <br>
@@ -59,11 +64,6 @@ We designed and characterized [novel platinum-based agents that target unique DN
 
 `Skills`<br>
 X-ray crystallography, DNA footprinting, tyrosine fluorescence quenching, surface plasmon resonance, bacterial cell culture and cloning
-
-<br>
-
-# Publications and preprints
-[Google scholar][googlescholar]
 
 <br>
 
