@@ -9,12 +9,20 @@ Structural biology, cryo-EM, sample preparation, automation, molecular complexes
 
 <br>
 
+# Publications and preprints
+[Google scholar][googlescholar]
+
+<br>
+
 # Research Experience
 **Scientist, [Simons Electron Microscopy Center][semc], [New York Stuctural Biology Center][nysbc], 2020-present**
 <br>
-`Research highlight`<br>
+`Vitrocam`<br>
 <img align="right" src="/assets/vitrocam.png">{: width="150" }
 With a focus on improving automation and efficiency in cryo-EM sample preparation, we built the [Vitrocam][vitrocam], a simple and cost-effective Raspberry Pi camera, to image grids in the Vitrobot during plunging. By providing information on grid and ice quality during plunge freezing with the Vitrocam, the sample preparation feedback loop can be shortened, compared to otherwise costly and time-consuming screening in an electron microscope.
+
+`Ice thickness`<br>
+We [measured][icet] the effect of ice thickness and a range of microscope configurations on resolution in single particle analysis. 
 
 `Access and Training`<br>
 I pioneered the [grid preparation and screening][gps] program at our NIH-funded National Center for Cryo-EM Access and Training (NCCAT). Through this program, users with limited cryo-EM access or expertise can gain access and training to prepare their samples for high resolution cryo-EM imaging.
@@ -62,11 +70,6 @@ X-ray crystallography, DNA footprinting, tyrosine fluorescence quenching, surfac
 
 <br>
 
-# Publications and preprints
-[Google scholar][googlescholar]
-
-<br>
-
 # Education
 2010-2014
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -80,6 +83,7 @@ X-ray crystallography, DNA footprinting, tyrosine fluorescence quenching, surfac
 
 
 [vitrocam]: https://www.biorxiv.org/content/10.1101/2022.06.16.496351v1
+[icet]: https://www.sciencedirect.com/science/article/pii/S2590152423000016
 [gps]: https://nccat.nysbc.org/access/gps-session-help-guide/
 [swr1]: https://www.science.org/doi/10.1126/science.aat7716
 [vpp]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5041491/
